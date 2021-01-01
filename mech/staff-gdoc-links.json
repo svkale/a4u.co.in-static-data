@@ -1,4 +1,7 @@
-[
-  ["vmkale","doclink1"],
-  ["vmkale","doclink1"]
-]
+{
+	"stafflist":
+	[
+		["vmkale","doclink1"],
+		["vmkale","doclink1"]
+	]
+}
